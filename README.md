@@ -17,9 +17,9 @@
 
 ## Installation
 -1. Clone this repository or download the ZIP.
--2. Open the project in your IDE (NetBeans recommended)
+-2. Open the project in NetBeans
 -3. Compile the project
--4. Run from the IDE or use the executable jar file (https://drive.google.com/file/d/1cMBtUJ4h91otqnKCA4966tfQCJT5CZ2i/view?usp=drive_link) by downloading it and placing it into the ISU3 folder.
+-4. Run from the IDE. As a last resort, use the executable jar file (https://drive.google.com/file/d/1cMBtUJ4h91otqnKCA4966tfQCJT5CZ2i/view?usp=drive_link) by downloading it and placing it in the ISU folder. It is unreliable, however.
 
 ## Project Structure
 -src/ -> Java source code
